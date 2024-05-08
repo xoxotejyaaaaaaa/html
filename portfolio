@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<!-- SITE TITLE -->
+	<title>Tejas Dhole</title>
+
+	<!-- STYLESHEETS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/templatemo-style.css">
+	<link href='//fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
+<!-- 
+
+Ultra Profile
+
+https://templatemo.com/tm-464-ultra-profile
+
+-->
+</head>
+<body data-spy="scroll" data-target="#rock-navigation">
+	<!-- START NAVIGATION -->
+	<div class="navbar navbar-default bs-dos-nav navbar-fixed-top sticky-navigation" role="navigation">
+		<div class="container">
+
+			<div class="navbar-header">
+				<button class="navbar-toggle" data-toggle="collapse" data-target="#rock-navigation">
+					<span class="icon icon-bar"></span>
+					<span class="icon icon-bar"></span>
+					<span class="icon icon-bar"></span>
+				</button>
+				<a href="#" class="navbar-brand">Tejas Dhole</a>
+			</div>
+			<nav class="collapse navbar-collapse" id="rock-navigation">
+				<ul class="nav navbar-nav navbar-right main-navigation text-uppercase">
+					<li><a href="#home" class="smoothScroll">Home</a></li>
+					<li><a href="#work" class="smoothScroll">My Work</a></li>
+					<li><a href="#portfolio" class="smoothScroll">Certificates</a></li>
+					<li><a href="#resume" class="smoothScroll">Resume</a></li>
+					<li><a href="#about" class="smoothScroll">About</a></li>
+					<li><a href="#contact" class="smoothScroll">Contact</a></li>
+				</ul>
+			</nav>
+
+		</div>
+	</div>
+	<!-- END NAVIGATION -->
+
+	<!-- START HOME -->
+	<section id="home" class="templatemo-home">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2 col-sm-1"></div>
+				<div class="col-md-8 col-sm-10">
+					<h1 class="tm-home-title"><strong>Tejas Dhole</strong></h1>
+					<h2 class="tm-home-subtitle">Web Developer</h2>
+					<p> I’m now Studing my B.Tech degree in computer Science and Engennering from Sanjay Ghodawat University,Kolhapur.</p>
+					<a href="#work" class="btn btn-default smoothScroll tm-view-more-btn">Let's Begin</a>
+				</div>
+				<div class="col-md-2 col-sm-1"></div>
+			</div>
+		</div>
+	</section>
+	<!-- END HOME -->
+	<div class="col-md-6 col-sm-6">
+		<h2 class="title"><strong>Some</strong> Skills</h2>
+		<!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.</p> -->
+		<h4 class="tm-progress-label">java <small class="progress-percent-small">50%</small></h4>
+		<div class="progress tm-progress">
+			<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
+		</div>
+		<h4 class="tm-progress-label">C,C++ <small class="progress-percent-small">60%</small></h4>
+		<div class="progress tm-progress">
+			<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
+		</div>
+		<h4 class="tm-progress-label">HTML <small class="progress-percent-small">45%</small></h4>
+		<div class="progress tm-progress">
+			<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="45" style="width: 45%;"></div>
+		</div>
+	</div>
+
+	<!-- START work -->
+	<section id="work" class="tm-padding-top-bottom-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-1 col-md-11">
+					<h2 class="title">My <strong>Work</strong></h2>						
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div class="work-wrapper">
+						<i class="fa fa-code"></i>
+						
+						<h3 class="text-uppercase tm-work-h3">C , C++</h3>
+						<hr>
+						<!-- <p>Proficient in C programming language, capable of developing efficient and scalable software solutions & Skilled in C++ development,adept at utilizing its object featuresto create robust applications for various platforms and industries.</p> -->
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div class="work-wrapper">
+						<i class="fa fa-code"></i>
+						<h3 class="text-uppercase tm-work-h3">Java</h3>
+						<hr>
+						<!-- <p>Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation).</p> -->
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4">
+					<div class="work-wrapper">
+						<i class="fa fa-dashboard"></i>
+						<h3 class="text-uppercase tm-work-h3">HTML</h3>
+						<hr>
+						<!-- <p>HTML (HyperText Markup Language) is the standard language used to create and design web pages.</p> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- END work -->
+
+	<!-- START PORTFOLIO -->
+	<section id="portfolio" class="tm-portfolio">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 wow bounce">
+					<div class="title">
+						<h2 class="tm-portfolio-title">My <strong>Certificates</strong></h2>
+					</div>
+
+					<!-- START ISO SECTION -->
+					<div class="iso-section">
+						<ul class="filter-wrapper clearfix">
+							<li><a href="#" class="opc-main-bg selected" data-filter="*">All</a></li>
+							<!-- <li><a href="#" class="opc-main-bg" data-filter=".html">Secondary and Higher Secondary school</a></li> -->
+							<li><a href="#" class="opc-main-bg" data-filter=".photoshop">Secondary and Higher Secondary school</a></li>
+							<li><a href="#" class="opc-main-bg" data-filter=".wordpress">Sports</a></li>
+							<li><a href="#" class="opc-main-bg" data-filter=".mobile">Photography</a></li>
+						</ul>
+						<div class="iso-box-section">
+							<div class="iso-box-wrapper col4-iso-box">
+								<div class="iso-box mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img1.jpg?alt=media&token=00682e27-3dc1-434a-8f2e-31bf8f4259b0" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">General championship</h3>
+											<p>Kho-Kho Best Award in Pune.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img2.jpg?alt=media&token=49fbfb48-e11b-4144-a97b-8d69092f9c2e" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Kho-Kho</h3>
+											<p>Kho-Kho Winner Scene.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box wordpress col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img3.jpg?alt=media&token=81fd1ba2-e6d4-44b6-b67b-9e90c760ffba" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Kho-Kho</h3>
+											<p>State Level Inter University Gold Medel</p>
+										</div>
+									</div>
+								</div>
+								<!-- <div class="iso-box html mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="images/portfolio-img4.jpg" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">UX Design</h3>
+											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonumm.</p>
+										</div>
+									</div>
+								</div> -->
+								<div class="iso-box mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img5.jpg?alt=media&token=c9220161-3e6e-42b6-857c-95ca50fcf405" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Kho-Kho</h3>
+											<p>Kho-Kho dye in pune.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box photoshop col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img6.jpg?alt=media&token=bcc1e68a-335a-4eb0-b1b8-e6f12f2922f6" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Certificate</h3>
+											<p>Secondary School.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box photoshop col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img7.jpg?alt=media&token=f5defb33-3597-422c-bdb2-0b32e376565d" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Certificate</h3>
+											<p>Higher Secondary School.</p>
+										</div>
+									</div>
+								</div>
+								<div class="iso-box mobile col-md-3 col-sm-3 col-xs-12">
+									<div class="portfolio-thumb">
+										<img src="https://firebasestorage.googleapis.com/v0/b/portfolio-7ef2d.appspot.com/o/portfolio-img8.jpg?alt=media&token=ded253e5-a2ec-46af-bb8c-5313f29f884b" class="fluid-img" alt="portfolio img">
+										<div class="portfolio-overlay">
+											<h3 class="portfolio-item-title">Kho-Kho</h3>
+											<p>Kho-Kho dye in Sgu.</p>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- END PORTFOLIO -->
+	 <!-- <div class="clearfix"></div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">drawing</small>
+
+                                    <h3 class="projects-title">Sketch</h3>
+                                </div>
+
+                                <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-928d0.appspot.com/o/nikhil-KO4io-eCAXA-unsplash.jpg?alt=media&token=6bc580f8-da37-43a8-9e82-ce2dac8afea7" class="popup-image">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-928d0.appspot.com/o/nikhil-KO4io-eCAXA-unsplash.jpg?alt=media&token=6bc580f8-da37-43a8-9e82-ce2dac8afea7" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Photography</small>
+
+                                    <h3 class="projects-title">The Nature</h3>
+                                </div>
+
+                                <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-928d0.appspot.com/o/the-5th-IQYR7N67dhM-unsplash.jpg?alt=media&token=ea4c339e-1e02-4c7c-876a-af89e8e956ba" class="popup-image">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-928d0.appspot.com/o/the-5th-IQYR7N67dhM-unsplash.jpg?alt=media&token=ea4c339e-1e02-4c7c-876a-af89e8e956ba" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <small class="projects-tag">Website</small>
+
+                                    <h3 class="projects-title">Personal</h3>
+                                </div>
+
+                                <a href="https://firebasestorage.googleapis.com/v0/b/portfolio-928d0.appspot.com/o/true-agency-9Bjog5FZ-oc-unsplash.jpg?alt=media&token=852e6d7e-4046-4eed-895b-d02eb67e11b2" class="popup-image">
+                                    <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-928d0.appspot.com/o/true-agency-9Bjog5FZ-oc-unsplash.jpg?alt=media&token=852e6d7e-4046-4eed-895b-d02eb67e11b2" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </section> -->
+
+	<!-- START RESUME -->
+	<section id="resume" class="tm-padding-top-bottom-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-sm-6">					
+					<h2 class="title">My <strong>Profile</strong></h2>
+					<p><span class="tm-info-label">Name</span> Tejas Dhole</p>
+					<p><span class="tm-info-label">Birthday</span> April 17, 2002</p>
+					<p><span class="tm-info-label">Address</span> Ichalkaranji</p>
+					<p><span class="tm-info-label">Phone</span> +91 8007999896</p>
+					<p><span class="tm-info-label">Email</span> tejasdhole9896@gmail.com</p>
+					<!-- <p><span class="tm-info-label">Website</span> <a href="#" class="tm-red-text">www.company.com</a></p> -->
+				</div>
+				<!-- <div class="col-md-6 col-sm-6">
+					<h2 class="title"><strong>Some</strong> Skills</h2>
+					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.</p>
+					<h4 class="tm-progress-label">java <small class="progress-percent-small">50%</small></h4>
+					<div class="progress tm-progress">
+						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
+					</div>
+					<h4 class="tm-progress-label">C,C++ <small class="progress-percent-small">60%</small></h4>
+					<div class="progress tm-progress">
+						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
+					</div>
+					<h4 class="tm-progress-label">HTML <small class="progress-percent-small">45%</small></h4>
+					<div class="progress tm-progress">
+						<div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="45" style="width: 45%;"></div>
+					</div>
+				</div> -->
+			</div>
+		</div>
+	</section>
+	<!-- END RESUME -->
+
+	<!-- START ABOUT -->
+	<section id="about" class="tm-about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-offset-6 col-md-6 col-sm-offset-6 col-sm-7">
+					<div class="title">
+						<h2>This is <strong>me</strong></h2>
+						<h1 class="tm-red-text">Web <strong>Developer</strong></h1>
+					</div>
+					<p>Hey,Tejas is here and I’m now Studing my B.Tech degree in computer Science and Engennering from Sanjay Ghodawat University,Kolhapur.</p>
+					<!-- <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet. Dolore magna aliquam erat volutpat.</p> -->
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- END ABOUT -->
+
+	<!-- START SOCIAL -->
+	<section id="social" class="tm-social">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 col-sm-4 wow rotateInUpLeft" data-wow-delay="0.3s">
+					<div class="media facebook">
+						<a href="https://www.facebook.com/tejas.dhole.16">
+							<div class="media-object pull-left">
+								<i class="fa fa-facebook"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading tm-social-title">Follow me on</h4>
+								<h3>Social Facebook</h3>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4 wow rotateInUpLeft" data-wow-delay="0.6s">
+					<div class="media twitter">
+						<a href="https://twitter.com/tejasdhole36319">
+							<div class="media-object pull-left">
+								<i class="fa fa-twitter"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading tm-social-title">Tweet me on</h4>
+								<h3>Social Twitter</h3>
+							</div>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4 col-sm-4 wow rotateInUpLeft" data-wow-delay="0.9s">
+					<div class="media instagram">
+						<a href="https://www.instagram.com/xoxotejyaaaaaaa_">
+							<div class="media-object pull-left">
+								<i class="fa fa-instagram"></i>
+							</div>
+							<div class="media-body">
+								<h4 class="media-heading tm-social-title">Pin me on</h4>
+								<h3>Social instagram</h3>
+							</div>
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<hr>
+	<!-- END SOCIAL -->
+
+	START CONTACT
+	<section id="contact" class="tm-contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">					
+					<h2 class="title">Drop <strong>me a line</strong></h2>
+					<hr>					
+				</div>
+				<div class="col-md-1 col-sm-1"></div>
+				<div class="col-md-10 col-sm-10">
+					<form action="25b5ac44-24c3-4598-93b0-74b75a7f65dd" method="post">
+						<div class="col-md-6 col-sm-6">
+							<input class="form-control" type="text" placeholder="Your Name">
+						</div>
+						<div class="col-md-6 col-sm-6">
+							<input class="form-control" type="email" placeholder="Your Email">
+						</div>
+						<div class="col-md-12 col-sm-12">
+							<input class="form-control" type="text" placeholder="Your Subject">
+							<textarea class="form-control" placeholder="Your Message" rows="6"></textarea>
+						</div>
+						<div class="col-md-offset-2 col-md-8 col-sm-offset-2 col-sm-8">
+							<input class="form-control" type="submit" value="SHOOT MESSAGE">
+						</div>
+					</form>
+				</div> -->
+				
+				<div class="col-md-1 col-sm-1"></div>
+				<div class="col-md-12 col-sm-12"> 
+					<!-- <p>Copyright &copy; 2018 Ultra Profile  -->
+                    <!-- design: <a rel="nofollow noopener" href="https://templatemo.com">template mo</a></p> -->
+				</div>
+			</div>
+		</div>
+	</section> 
+	<!-- END CONTACT -->
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/smoothscroll.js"></script>
+	<script src="js/jquery.nav.js"></script>
+	<script src="js/isotope.js"></script>
+	<script src="js/imagesloaded.min.js"></script>
+	<script src="js/custom.js"></script>
+</body>
+</html>
